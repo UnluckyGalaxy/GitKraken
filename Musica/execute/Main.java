@@ -5,7 +5,7 @@ import objects.Menu;
 public class Main {
 
 	public static void main(String[] args) {
-		Menu x = new Menu();
-		x.initApp();
+		Menu R = new Menu();
+		Menúsdaw.initApp();
 	}	
 }
